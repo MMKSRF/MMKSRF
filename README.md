@@ -13,7 +13,7 @@ This repository is a showcase of my journey as a full-stack developer, featuring
 ---
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Perez-Endale&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PerezEndale&show_icons=true&theme=radical)
 
 ---
 
