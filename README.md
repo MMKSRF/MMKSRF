@@ -32,7 +32,31 @@ Here are some highlights of my recent projects:
 
 ### 3. **Telegram Channel Tools**
    - **Description**: Tools I built for my Telegram channel 'Zusecaris' to engage and connect with developers.  
-   - **Technologies**: [Add relevant details here]  
+   - **Technologies**: (Add relevant details here)  
+
+---
+
+## 📊 GitHub Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YourUsername&theme=github)
+
+*Visualize my GitHub contributions over time.*
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
+*My GitHub statistics, including commits, PRs, and issues.*
+
+---
+
+## 🛠️ Languages Used
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+
+*A breakdown of the programming languages I use in my repositories.*
 
 ---
 
@@ -59,7 +83,13 @@ I’m always open to collaborating on new projects or learning from others. Feel
 
 I love documenting my developer journey and sharing lessons on Telegram and Reddit. Let’s grow together! 🚀
 
-<!---
-MMKSRF/MMKSRF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## ⚠️ Notes on Graphs and Stats
+
+1. **Enable Public Contributions**: These graphs and stats only work if your repositories are public and you’ve been active.  
+2. **Dynamic Updates**: The graphs and stats will update automatically as your activity changes.  
+3. **Replace `YourUsername`**: Be sure to replace `YourUsername` in the links with your actual GitHub username.  
+4. **Themes**: You can customize the graph and stats themes (`radical`, `dark`, `github`, etc.) to fit your preferences.
+
+---
