@@ -7,8 +7,9 @@ This repository is a showcase of my journey as a full-stack developer, featuring
 
 ## 📊 GitHub Analytics & Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=highcontrast)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)
+![Contribution Graph](https://github.com/YourUsername/YourUsername/raw/main/github-contribution-grid-snake.svg)
 
 ### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
