@@ -87,7 +87,7 @@ I love documenting my developer journey and sharing lessons on Telegram and Redd
 
 1. **Enable Public Contributions**: These graphs and stats only work if your repositories are public and you’ve been active.  
 2. **Dynamic Updates**: The graphs and stats will update automatically as your activity changes.  
-3. **Replace `YourUsername`**: Be sure to replace `YourUsername` in the links with your actual GitHub username.  
+3. **Replace `Perez Endale`**: Be sure to replace `Perez Endale` in the links with your actual GitHub username.  
 4. **Themes**: You can customize the graph and stats themes (`radical`, `tokyonight`, `react-dark`, etc.) to fit your preferences.
 
 ---
