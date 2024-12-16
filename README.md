@@ -7,10 +7,7 @@ This repository is a showcase of my journey as a full-stack developer, featuring
 
 ## 📊 GitHub Analytics & Stats
 
-### 📉 Contribution Activity Graph (Trading-Style)
-[![Contribution Graph](https://github.com/YourUsername/YourUsername/raw/main/github-contribution-grid-snake.svg)](https://github.com/YourUsername)
 
----
 
 ### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
