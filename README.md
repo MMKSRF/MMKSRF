@@ -8,6 +8,14 @@ This repository is a showcase of my journey as a full-stack developer, featuring
 ## 📊 GitHub Analytics & Stats
 
 
+![GitHub Contributions](https://github-contributions.vercel.app/api/v1/YourUsername)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=github)
+![Star History](https://api.star-history.com/svg?repos=YourUsername/Repo1,YourUsername/Repo2&type=Timeline)
+![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YourUsername&theme=dracula)
+![Trophies](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=onestar&no-frame=true)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YourWakatimeUsername&theme=dark)
+
+
 ### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
 
