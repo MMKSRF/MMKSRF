@@ -1,7 +1,7 @@
 # MMKSRF - Perez Endale
 
 
-<img src="https://github.com/user-attachments/assets/579ef8f2-c8b5-4694-84be-fae39aebcd00" alt="Profile Picture" width="150" height="150" style="border-radius: 50%; object-fit: cover; width:150px; height:150px;" />
+<img src="https://github.com/user-attachments/assets/579ef8f2-c8b5-4694-84be-fae39aebcd00" alt="Profile Picture" width="150" height="150" style="border-radius: 100%; object-fit: cover; width:150px; height:150px;" />
 
 Welcome to **MMKSRF**!  
 This repository is a showcase of my journey as a full-stack developer, featuring projects, coding challenges, and tools I’ve built along the way.
