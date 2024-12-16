@@ -18,28 +18,28 @@ As a developer, I believe in continuous learning and contribution. Below, you’
 ### 🔄 Contribution Heatmap  
 I’m committed to daily progress, whether it’s contributing to open-source projects, building personal tools, or learning new technologies.  
 
-![GitHub Contributions](https://github-contributions.vercel.app/api/v1/PerezEndale)
+![GitHub Contributions](https://github-contributions.vercel.app/api/v1/perez)
 
 ---
 
 ### 📉 Activity Graph  
 Here's a detailed view of my coding activity and project contributions over time.  
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=perezendale&theme=github)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=perez&theme=github)
 
 ---
 
 ### ⭐ Star History  
 I’m passionate about creating repositories that others find valuable. This graph shows the growth of stars on my repositories over time.  
 
-![Star History](https://api.star-history.com/svg?repos=PerezEndale/Repo1,perezendale/Repo2&type=Timeline)
+![Star History](https://api.star-history.com/svg?repos=PerezEndale/Repo1,perez/Repo2&type=Timeline)
 
 ---
 
 ### 📊 Repo Stats  
 I focus on creating well-structured, language-diverse repositories.  
 
-![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=perezendale&theme=dracula)
+![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=perez&theme=dracula)
 
 ---
 
@@ -47,7 +47,7 @@ I focus on creating well-structured, language-diverse repositories.
 
 Recognition is a great motivator! These trophies represent my journey in open-source contributions, project development, and overall GitHub activity.  
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=perezendale&theme=onestar&no-frame=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=perez&theme=onestar&no-frame=true)
 
 ---
 
@@ -65,7 +65,7 @@ Here are the tools and technologies I work with daily to bring projects to life:
 ### ⏱️ Wakatime Stats  
 Time management is crucial as a developer. These stats showcase how I’ve allocated my coding hours recently.  
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=perezendale&theme=dark)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=perez&theme=dark)
 
 ---
 
@@ -73,7 +73,7 @@ Time management is crucial as a developer. These stats showcase how I’ve alloc
 
 It’s always satisfying to see your overall progress as a developer. Here’s an overview of my GitHub activity, contributions, and milestones:  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=perezendale&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=perez&show_icons=true&theme=radical)
 
 ---
 
@@ -81,7 +81,7 @@ It’s always satisfying to see your overall progress as a developer. Here’s a
 
 Consistency is key to mastering any skill, and I strive to keep my streak alive:  
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=perezendale&theme=highcontrast)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=perez&theme=highcontrast)
 
 ---
 
@@ -89,7 +89,7 @@ Consistency is key to mastering any skill, and I strive to keep my streak alive:
 
 This breakdown highlights the programming languages I use the most in my projects.  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=perezendale&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=perez&layout=compact&theme=tokyonight)
 
 ---
 
