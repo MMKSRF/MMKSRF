@@ -1,6 +1,8 @@
 # MMKSRF - Perez Endale
 
-<img src="https://github.com/PerezEndale/YourProfilePicture.png" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;" />
+<img src="https://github.com/user-attachments/assets/579ef8f2-c8b5-4694-84be-fae39aebcd00 " alt="Profile Picture" width="150" height="150" style="border-radius: 50%;" />
+
+
 
 Welcome to **MMKSRF**!  
 This repository is a showcase of my journey as a full-stack developer, featuring projects, coding challenges, and tools I’ve built along the way.
@@ -23,21 +25,21 @@ I’m committed to daily progress, whether it’s contributing to open-source pr
 ### 📉 Activity Graph  
 Here's a detailed view of my coding activity and project contributions over time.  
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PerezEndale&theme=github)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=perezendale&theme=github)
 
 ---
 
 ### ⭐ Star History  
 I’m passionate about creating repositories that others find valuable. This graph shows the growth of stars on my repositories over time.  
 
-![Star History](https://api.star-history.com/svg?repos=PerezEndale/Repo1,PerezEndale/Repo2&type=Timeline)
+![Star History](https://api.star-history.com/svg?repos=PerezEndale/Repo1,perezendale/Repo2&type=Timeline)
 
 ---
 
 ### 📊 Repo Stats  
 I focus on creating well-structured, language-diverse repositories.  
 
-![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PerezEndale&theme=dracula)
+![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=perezendale&theme=dracula)
 
 ---
 
@@ -45,7 +47,7 @@ I focus on creating well-structured, language-diverse repositories.
 
 Recognition is a great motivator! These trophies represent my journey in open-source contributions, project development, and overall GitHub activity.  
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=PerezEndale&theme=onestar&no-frame=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=perezendale&theme=onestar&no-frame=true)
 
 ---
 
@@ -63,7 +65,7 @@ Here are the tools and technologies I work with daily to bring projects to life:
 ### ⏱️ Wakatime Stats  
 Time management is crucial as a developer. These stats showcase how I’ve allocated my coding hours recently.  
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=PerezEndale&theme=dark)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=perezendale&theme=dark)
 
 ---
 
@@ -71,7 +73,7 @@ Time management is crucial as a developer. These stats showcase how I’ve alloc
 
 It’s always satisfying to see your overall progress as a developer. Here’s an overview of my GitHub activity, contributions, and milestones:  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PerezEndale&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=perezendale&show_icons=true&theme=radical)
 
 ---
 
@@ -79,7 +81,7 @@ It’s always satisfying to see your overall progress as a developer. Here’s a
 
 Consistency is key to mastering any skill, and I strive to keep my streak alive:  
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=PerezEndale&theme=highcontrast)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=perezendale&theme=highcontrast)
 
 ---
 
@@ -87,7 +89,7 @@ Consistency is key to mastering any skill, and I strive to keep my streak alive:
 
 This breakdown highlights the programming languages I use the most in my projects.  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PerezEndale&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=perezendale&layout=compact&theme=tokyonight)
 
 ---
 
