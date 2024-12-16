@@ -7,6 +7,7 @@ This repository is a showcase of my journey as a full-stack developer, featuring
 
 ## 📊 GitHub Analytics & Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
 
 
 ### 📈 GitHub Stats
