@@ -1,7 +1,29 @@
 # MMKSRF
 
 Welcome to **MMKSRF**!  
-This repository is a showcase of my journey as a full-stack developer, featuring projects, coding challenges, and tools I’ve built along the way. Here you’ll find examples of my work using technologies like **React**, **Node.js**, **Tailwind CSS**, **PostgreSQL**, and more.
+This repository is a showcase of my journey as a full-stack developer, featuring projects, coding challenges, and tools I’ve built along the way.
+
+---
+
+## 📊 GitHub Analytics & Stats
+
+### 🖼️ Contribution Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YourUsername&theme=react-dark)
+
+---
+
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
+---
+
+### 🛠️ Languages Breakdown
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)
+
+---
+
+### 🔥 Streak Stats
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=highcontrast)
 
 ---
 
@@ -36,30 +58,6 @@ Here are some highlights of my recent projects:
 
 ---
 
-## 📊 GitHub Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YourUsername&theme=github)
-
-*Visualize my GitHub contributions over time.*
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-
-*My GitHub statistics, including commits, PRs, and issues.*
-
----
-
-## 🛠️ Languages Used
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
-
-*A breakdown of the programming languages I use in my repositories.*
-
----
-
 ## 🗓️ Current Goals
 
 - Learn **React** deeply and apply it to my projects.  
@@ -90,6 +88,6 @@ I love documenting my developer journey and sharing lessons on Telegram and Redd
 1. **Enable Public Contributions**: These graphs and stats only work if your repositories are public and you’ve been active.  
 2. **Dynamic Updates**: The graphs and stats will update automatically as your activity changes.  
 3. **Replace `YourUsername`**: Be sure to replace `YourUsername` in the links with your actual GitHub username.  
-4. **Themes**: You can customize the graph and stats themes (`radical`, `dark`, `github`, etc.) to fit your preferences.
+4. **Themes**: You can customize the graph and stats themes (`radical`, `tokyonight`, `react-dark`, etc.) to fit your preferences.
 
 ---
