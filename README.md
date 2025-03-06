@@ -1,58 +1,15 @@
 # MMKSRF - Perez Endale
 
+<img src="https://github.com/user-attachments/assets/579ef8f2-c8b5-4694-84be-fae39aebcd00" alt="Profile Picture" width="250" height="auto" style="border-radius: 100%;, border-radius: 100%;"  />
 
-<img src="https://github.com/user-attachments/assets/579ef8f2-c8b5-4694-84be-fae39aebcd00" alt="Profile Picture" width="150" height="150" style="border-radius: 100%; object-fit: cover; width:150px; height:150px;" />
-
-Welcome to **MMKSRF**!  
-This repository is a showcase of my journey as a full-stack developer, featuring projects, coding challenges, and tools I’ve built along the way.
-
----
-
-## 📊 GitHub Analytics & Highlights  
-
-As a developer, I believe in continuous learning and contribution. Below, you’ll find an overview of my GitHub activity, accomplishments, and development journey:
+Welcome to **MMKSRF**! 🚀  
+I'm a **Full-Stack Web Developer** passionate about building scalable, efficient, and user-friendly applications. This repository showcases my journey, projects, and contributions to the developer community.
 
 ---
 
-### 🔄 Contribution Heatmap  
-I’m committed to daily progress, whether it’s contributing to open-source projects, building personal tools, or learning new technologies.  
+## 🛠️ Tech Stack
 
-![GitHub Contributions](https://github-contributions.vercel.app/api/v1/perez)
-
----
-
-### 📉 Activity Graph  
-Here's a detailed view of my coding activity and project contributions over time.  
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=perez&theme=github)
-
----
-
-### ⭐ Star History  
-I’m passionate about creating repositories that others find valuable. This graph shows the growth of stars on my repositories over time.  
-
-![Star History](https://api.star-history.com/svg?repos=PerezEndale/Repo1,perez/Repo2&type=Timeline)
-
----
-
-### 📊 Repo Stats  
-I focus on creating well-structured, language-diverse repositories.  
-
-![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=perez&theme=dracula)
-
----
-
-## 🏆 Achievements & Trophies  
-
-Recognition is a great motivator! These trophies represent my journey in open-source contributions, project development, and overall GitHub activity.  
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=perez&theme=onestar&no-frame=true)
-
----
-
-## 🛠️ Tech Stack  
-
-Here are the tools and technologies I work with daily to bring projects to life:  
+I specialize in modern web development technologies:
 
 - **Frontend**: React, Tailwind CSS, HTML5, CSS3, JavaScript  
 - **Backend**: Node.js, Express  
@@ -61,89 +18,68 @@ Here are the tools and technologies I work with daily to bring projects to life:
 
 ---
 
-### ⏱️ Wakatime Stats  
-Time management is crucial as a developer. These stats showcase how I’ve allocated my coding hours recently.  
-
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=perez&theme=dark)
-
----
-
-## 📈 GitHub Stats  
-
-It’s always satisfying to see your overall progress as a developer. Here’s an overview of my GitHub activity, contributions, and milestones:  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=perez&show_icons=true&theme=radical)
-
----
-
-### 🔥 Streak Stats  
-
-Consistency is key to mastering any skill, and I strive to keep my streak alive:  
-
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=perez&theme=highcontrast)
-
----
-
-### 🛠️ Languages Breakdown  
-
-This breakdown highlights the programming languages I use the most in my projects.  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=perez&layout=compact&theme=tokyonight)
-
----
-
-## 🚀 Featured Projects  
-
-Here are a few highlights from my recent work:  
+## 🚀 Featured Projects
 
 ### 1. **Personal Portfolio**  
-- **Description**: A React-based portfolio showcasing my skills and projects with a clean, responsive design using Tailwind CSS.  
+- **Description**: A modern, responsive portfolio built with React and Tailwind CSS.  
 - **Technologies**: React, Tailwind CSS  
 - **Demo**: [Live Site](#)  
 - **Code**: [GitHub Repo](#)  
 
 ### 2. **Task Manager**  
-- **Description**: A task management web app with features like CRUD operations and a responsive UI.  
+- **Description**: A web app with task management features, including CRUD operations and a user-friendly UI.  
 - **Technologies**: Node.js, Express, PostgreSQL, EJS  
 - **Demo**: [Live App](#)  
 - **Code**: [GitHub Repo](#)  
 
 ### 3. **Telegram Channel Tools**  
-- **Description**: Tools I built for my Telegram channel 'Zusecaris' to engage and connect with developers.  
+- **Description**: Tools for automating engagement and content management in my Telegram channel **Zusecaris**.  
 - **Technologies**: (Add relevant details here)  
 
 ---
 
-## 🗓️ Current Goals  
+## 📈 GitHub Stats & Contributions
 
-These are my current goals as I continue to grow and evolve as a full-stack developer:  
+I believe in continuous learning and contributing to the developer community. Here’s an overview of my GitHub activity:
 
-- Deepen my knowledge of **React** and apply it to real-world projects.  
-- Build and deploy a **React + Tailwind portfolio** to showcase my work.  
-- Actively contribute to open-source projects to give back to the community.  
-- Document my progress on **[Zusecaris](#)** (Telegram) and Reddit to inspire and engage with fellow developers.  
+### 📉 Activity Graph  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=perez&theme=github)  
 
----
+### ⭐ Star History  
+![Star History](https://api.star-history.com/svg?repos=PerezEndale/Repo1,perez/Repo2&type=Timeline)  
 
-## ⚡ Fun Fact  
+### 🏆 GitHub Trophies  
+![Trophies](https://github-profile-trophy.vercel.app/?username=perez&theme=onestar&no-frame=true)  
 
-I enjoy documenting my developer journey and sharing tips on Telegram and Reddit. Let’s connect and grow together! 🚀  
+### 📊 Development Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=perez&show_icons=true&theme=radical)  
 
----
+### 🔥 Streak Stats  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=perez&theme=highcontrast)  
 
-## ⚠️ Notes on Graphs and Stats  
-
-1. **Enable Public Contributions**: Make sure your repositories are public so your stats and graphs reflect your work.  
-2. **Dynamic Updates**: The graphs and stats automatically update as your activity changes.  
-3. **Customizable Themes**: You can modify graph themes (e.g., `dracula`, `radical`, `tokyonight`) to suit your style.  
-4. **Replace `PerezEndale`**: Update all graph links with your GitHub username to ensure accurate data.  
+### 🛠️ Languages Breakdown  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=perez&layout=compact&theme=tokyonight)  
 
 ---
 
-## 🤝 Connect with Me  
+## 🗓️ Current Goals
 
-Let’s collaborate or share ideas:  
+- Deepen my knowledge of **React** and build production-level applications.  
+- Deploy my **React + Tailwind portfolio** to showcase my work.  
+- Contribute to **open-source projects** and engage with the dev community.  
+- Document my progress on **[Zusecaris](#)** (Telegram) and Reddit.  
+
+---
+
+## 🤝 Connect with Me
+
+Let’s collaborate and learn together:
 
 - **Telegram Channel**: [Zusecaris](#)  
 - **LinkedIn**: [Perez Endale](#)  
 - **Reddit**: [PerezEndale](#)  
+
+---
+
+> "Consistency and perseverance define the journey of a developer." - **Perez Endale**  
+
